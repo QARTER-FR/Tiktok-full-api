@@ -1,7 +1,7 @@
 # Tiktok-full-api
 Unofficial TikTok Full API for developers and researchers – explore trending videos, user profiles, and hashtags using Python
 
- contact telegram https://t.me/@danirueaq
+ contact telegram https://t.me/danirueaq
  
 TikTok Full API 
 
